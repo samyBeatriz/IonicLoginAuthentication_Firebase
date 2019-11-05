@@ -1,0 +1,8 @@
+{
+  "appId": "com.devBio.starter",
+  "appName": "managerJAVEBRATT",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

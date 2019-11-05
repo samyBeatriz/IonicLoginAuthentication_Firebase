@@ -1,0 +1,7 @@
+{
+  "name": "managerJAVEBRATT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
